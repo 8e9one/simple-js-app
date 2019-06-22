@@ -26,5 +26,5 @@ repository [2]= {
 }
 */
 for (var i = 0; i <= 2; i++) {
-  document.write(repository[i].name + '\'s <br> (height: ' + repository[i].height + ' m,)<br>' + '( weight: ' + repository[i].weight + ' kg,)<br>' + '( type: ' + repository[i].type + ' )<br><br>' )
+  document.write(repository[i].name + '\'s <br> ( height: ' + repository[i].height + ' m,)<br>' + '( weight: ' + repository[i].weight + ' kg,)<br>' + '( type: ' + repository[i].type + ' )<br><br>' )
 }
