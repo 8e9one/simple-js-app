@@ -27,3 +27,4 @@ for (var i = 0; i <= 2; i++) {
   if (repository[i].height > 1.5) {
 document.write('Wow, ' + repository[i].name + ', you are huge! <br><br>')
 }
+}
